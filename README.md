@@ -22,9 +22,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando Bacharelado em **Engenharia de Software** (UNINTER) e formado como Técnico em TI (CTMA).
-- 💼 Fundador, desenvolvedor e designer na **Webly Technology**, criando aplicações web, plataformas SaaS e identidades visuais.
-- 🛠️ Foco prático na construção de sistemas para gestão real, automação de pagamentos recorrentes (APIs REST & Webhooks) e infraestrutura como código.
-- 🐳 Experiência prática com containers, provisionamento e orquestração (**Docker, Docker Swarm, Kubernetes, Vagrant**) e **Google Cloud Platform (GCP)**.
+
 
 ---
 
